@@ -1,0 +1,25 @@
+body
+{
+  font-family: 'Source Code Pro', monospace;
+  .container
+  {
+    width: 80%;
+  }
+
+
+  nav
+  {
+    background-color: #f05f05 !important;
+    box-shadow: none;
+
+    .nav-wrapper
+    {
+      .brand-logo
+      {
+        font-size: 1.8rem;
+      }
+    }
+  }
+
+
+}
