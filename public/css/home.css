@@ -2,10 +2,14 @@ body {
   font-family: 'Source Code Pro', monospace; }
   body .container {
     width: 80%; }
+  body hr {
+    color: #f05f05 !important; }
   body nav {
     background-color: #f05f05 !important;
     box-shadow: none; }
     body nav .nav-wrapper .brand-logo {
       font-size: 1.8rem; }
+  body footer {
+    background-color: #f05f05 !important; }
 
 /*# sourceMappingURL=home.css.map */
