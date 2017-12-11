@@ -10,7 +10,11 @@ body {
     box-shadow: none; }
     body nav .nav-wrapper .brand-logo {
       font-size: 1.8rem; }
+  body table tr th {
+    text-align: center !important; }
+  body table tr td {
+    text-align: center !important; }
   body footer {
     background-color: #f05f05 !important; }
 
-/*# sourceMappingURL=home.css.map */
+/*# sourceMappingURL=faculty.css.map */

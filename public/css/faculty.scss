@@ -1,3 +1,4 @@
+
 body
 {
   font-family: 'Source Code Pro', monospace;
@@ -22,6 +23,21 @@ body
       .brand-logo
       {
         font-size: 1.8rem;
+      }
+    }
+  }
+
+  table
+  {
+    tr
+    {
+      th
+      {
+        text-align: center !important;
+      }
+      td
+      {
+        text-align: center !important;
       }
     }
   }
